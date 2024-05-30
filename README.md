@@ -1,7 +1,7 @@
-## console.log("Hello world👋") 
+<h1 align="center">Hi, Im Jeremias Lagos</h1>
+<h2 align="center">Frontend Developer</h2>
 
-<h1>Hi, Im Jeremias Lagos</h1>
+Team player frontend developer with a can-do attitude, specializing in creating dynamic and responsive web applications. With a strong focus on user experience and clean code.
+Always eager to learn something new and stay updated with the latest industry trends and technologies.
 
-<p>Frontend developer with a can-do attitude, specializing in creating dynamic and responsive web applications. Proficient in Angular and React, with a strong focus on user experience and clean code.
-Always eager to learn something new and stay updated with the latest industry trends and technologies.</p>
 
