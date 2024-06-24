@@ -4,4 +4,4 @@
 Team player frontend developer with a can-do attitude, specializing in creating dynamic and responsive web applications. With a strong focus on user experience and clean code.
 Always eager to learn something new and stay updated with the latest industry trends and technologies.
 
-[![Linkedin Badge](https://www.linkedin.com/in/jerem%C3%ADas-lagos-a51499215/) 
+
