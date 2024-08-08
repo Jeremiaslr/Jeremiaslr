@@ -1,23 +1,11 @@
 # 👋 Hi there!
 
-**Feel free to check out my portfolio website!**
+- 🏢 Frontend Developer, in Alicante, Spain
+- 🧰 I build with: `JavaScript` `TypeScript`, `Angular`, `Tailwind CSS`, `SCSS`, `HTML` ...
+- ⚡ I enjoy photography, reading, playing padel, and lifting weights :)
+- 📫 Reach out to me: jere77lagos@gmail.com
 
-### 🏢 Frontend Developer, Alicante, Spain
-
-**I build with:**
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/Jeremiaslr)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jerem%C3%ADas-lagos-a51499215/)
 
 
-### ⚡ Interests
-- 📷 Photography
-- 📚 Reading
-- 🎾 Playing padel
-- 🏋️ Lifting weights
-
-### 📫 Reach out to me
-**Email:** [jere77lagos@gmail.com](mailto:jere77lagos@gmail.com)
